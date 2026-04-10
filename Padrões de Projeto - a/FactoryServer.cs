@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -27,6 +28,28 @@ namespace Padrões_de_Projeto___a
         }
     }
 
+
+    public class SMSAdapter : Notificacao 
+    {
+        private SMSExterno sms = new SMSExterno();
+
+        public void Enviar(string mensagem)
+        {
+            sms.SendMessage(mensagem);
+        }
+    }
+
+    public class SMSExterno
+    {
+        public SMSExterno() { }
+
+        public void SendMessage(string mensagem)
+        {
+            Console.WriteLine("[SMS]: " + mensagem);
+        }
+    }
+
+
     public class Push : Notificacao
     {
         public void Enviar(string mensagem)
@@ -39,16 +62,23 @@ namespace Padrões_de_Projeto___a
     {
         public static Notificacao create(string tipo) 
         {
+            Notificacao nott;
+
             switch (tipo)
             {
                 case "EMAIL":
-                    return new Email();                    
+                    nott =  new Email();
+                    break;
                 case "SMS":
-                    return new SMS();
+                    nott = new SMSAdapter();
+                    break;
                 case "Push":
-                    return new Push();           
+                    nott = new Push();
+                    break;
                 default: return null;
             }                
+            
+            return new Proxy(nott);
         }
     }
 
