@@ -1,7 +1,0 @@
-C:\Users\Andrépvp\Desktop\proj\codigos\pradroes_c\pradroes_c\bin\Debug\pradroes_c.exe.config
-C:\Users\Andrépvp\Desktop\proj\codigos\pradroes_c\pradroes_c\bin\Debug\pradroes_c.exe
-C:\Users\Andrépvp\Desktop\proj\codigos\pradroes_c\pradroes_c\bin\Debug\pradroes_c.pdb
-C:\Users\Andrépvp\Desktop\proj\codigos\pradroes_c\pradroes_c\obj\Debug\pradroes_c.csproj.AssemblyReference.cache
-C:\Users\Andrépvp\Desktop\proj\codigos\pradroes_c\pradroes_c\obj\Debug\pradroes_c.csproj.CoreCompileInputs.cache
-C:\Users\Andrépvp\Desktop\proj\codigos\pradroes_c\pradroes_c\obj\Debug\pradroes_c.exe
-C:\Users\Andrépvp\Desktop\proj\codigos\pradroes_c\pradroes_c\obj\Debug\pradroes_c.pdb
