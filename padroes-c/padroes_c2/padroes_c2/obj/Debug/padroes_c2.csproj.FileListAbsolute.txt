@@ -1,0 +1,7 @@
+C:\Users\Andrépvp\Desktop\proj\codigos\padroes_c2\padroes_c2\bin\Debug\padroes_c2.exe.config
+C:\Users\Andrépvp\Desktop\proj\codigos\padroes_c2\padroes_c2\bin\Debug\padroes_c2.exe
+C:\Users\Andrépvp\Desktop\proj\codigos\padroes_c2\padroes_c2\bin\Debug\padroes_c2.pdb
+C:\Users\Andrépvp\Desktop\proj\codigos\padroes_c2\padroes_c2\obj\Debug\padroes_c2.csproj.AssemblyReference.cache
+C:\Users\Andrépvp\Desktop\proj\codigos\padroes_c2\padroes_c2\obj\Debug\padroes_c2.csproj.CoreCompileInputs.cache
+C:\Users\Andrépvp\Desktop\proj\codigos\padroes_c2\padroes_c2\obj\Debug\padroes_c2.exe
+C:\Users\Andrépvp\Desktop\proj\codigos\padroes_c2\padroes_c2\obj\Debug\padroes_c2.pdb
