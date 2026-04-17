@@ -1,0 +1,8 @@
+C:\Users\paulin\Desktop\Nova pasta (6)\pcd\pcd\bin\Debug\pcd.exe.config
+C:\Users\paulin\Desktop\Nova pasta (6)\pcd\pcd\bin\Debug\pcd.exe
+C:\Users\paulin\Desktop\Nova pasta (6)\pcd\pcd\bin\Debug\pcd.pdb
+C:\Users\paulin\Desktop\Nova pasta (6)\pcd\pcd\obj\Debug\pcd.csproj.AssemblyReference.cache
+C:\Users\paulin\Desktop\Nova pasta (6)\pcd\pcd\obj\Debug\pcd.csproj.CoreCompileInputs.cache
+C:\Users\paulin\Desktop\Nova pasta (6)\pcd\pcd\obj\Debug\pcd.exe
+C:\Users\paulin\Desktop\Nova pasta (6)\pcd\pcd\obj\Debug\pcd.pdb
+C:\Users\paulin\Desktop\Nova pasta (6)\pcd\pcd\obj\Debug\pcd.exe.config
